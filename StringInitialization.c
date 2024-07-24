@@ -10,9 +10,5 @@ int main() {
    printf("%s\n", str3);
    return 0;
 
-   //Taking multiword string input.
-   char string[1];
-   printf("Enter a multiword string (gets):");
-   fgets(string, 10, stdin);
-   puts(string);
+   
 }
